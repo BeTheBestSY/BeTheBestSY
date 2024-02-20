@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://blog.naver.com/lio97" target="_blank">
+<a href="https://blog.naver.com/lio97" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/>
 </a>
 
