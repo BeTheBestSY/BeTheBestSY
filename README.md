@@ -1,7 +1,9 @@
 
 ### Hi there 👋
-Hi there
+I'm Sooyeon Kim and wish to be a best Back-end Developer in the future.
+This page is where I save my studies.
 
+#
 
 <img src="https://img.shields.io/badge/Javascript-000?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/jquery-000?style=flat&logo=jquery&logoColor=0769AD"/> <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=oracle&logoColor=F80000"/> <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=FFFFFF"/> 
 
