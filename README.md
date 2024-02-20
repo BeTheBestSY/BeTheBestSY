@@ -10,7 +10,7 @@ This page is where I save my studies.
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/>&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFF"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
 
 #
-
+### About Me
 
 <a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
 &nbsp;
