@@ -1,7 +1,6 @@
 
 ### Hi there 👋
-I'm Sooyeon Kim and wish to be a best Back-end Developer in the future.
-
+I'm Sooyeon Kim and wish to be a best Back-end Developer in the future.  
 This page is where I save my studies.
 
 #
