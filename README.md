@@ -26,7 +26,7 @@ This site is where I save my studies.
 
 #
 
-### 💜 Stats
+### 🔜⚔️ Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeTheBestSY&show_icons=true&theme=default)
 
