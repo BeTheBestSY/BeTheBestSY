@@ -24,4 +24,10 @@ This site is where I save my studies.
 <a href="https://www.instagram.com/so0yeon__?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 
 
+#
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeTheBestSY&show_icons=true&theme=default)
+
 </div>
